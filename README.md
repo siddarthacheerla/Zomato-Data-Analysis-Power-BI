@@ -61,10 +61,8 @@ This dataset was used to perform data cleaning, analysis, and visualization to d
 * Data cleaning and transformation
 * Dashboard design and visualization
 * Extracting business insights from data
-
-## 📸 Dashboard Preview
-
-(Add your screenshots here)
+<img width="1362" height="786" alt="image" src="https://github.com/user-attachments/assets/9944504d-5dc1-4b42-a7b5-f4e5e70c66a3" />
+<img width="1350" height="772" alt="image" src="https://github.com/user-attachments/assets/15d50078-cde8-48d6-8293-036fbe7e008f" />
 
 ## 📌 Conclusion
 
